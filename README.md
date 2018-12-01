@@ -11,6 +11,8 @@ In your Java Development Environment, set up your run configuration to build wit
 
 Build with Maven and run as a Java Application. Make sure you are using JDK.
 
+
+
 Problems with this current version of code:
 
 Sometimes throws NullPointerException when creating the maze board.
